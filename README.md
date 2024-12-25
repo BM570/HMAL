@@ -16,3 +16,5 @@ https://github.com/mModule/guide_hma
 
 ## Update Log
 [Reference to the release page](https://github.com/pumPCin/HMAL/releases)  
+
+# ٱلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّٰهِ وَبَرَكَاتُهُ I'm searching for a job in tech (or outside of it) in remote (or on-site), if you have any clues
